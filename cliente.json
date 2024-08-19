@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "Lhua",
+    "sobrenome": "Lima",
+    "idade": 33,
+    "altura": 1.75,
+    "endereco": {
+      "rua": "Magnos",
+      "numero": 1257,
+      "setor": "Amazonia"
+    }
+  }
+]
